@@ -30,5 +30,5 @@ The data comes from EMSI and includes:
 
 ## 📊 Visual Insights
 
-### Screenshot: 
+### Screenshot: Percentage Change By Job Industry (Including Map Layout)
 ![image](https://github.com/YusafM/Tableau-EMSI-Job-Change-UK-Data-Visualisation/blob/main/Screenshot%202025-06-02%20145315.png)
