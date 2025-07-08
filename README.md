@@ -1,4 +1,4 @@
-readme_content = """# 📊 UK Job Change Analysis (2011–2014) – Tableau Dashboard
+# 📊 UK Job Change Analysis (2011–2014) – Tableau Dashboard
 
 ## Overview
 
