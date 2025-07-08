@@ -28,3 +28,7 @@ The data comes from EMSI and includes:
 - Job counts for 2011 and 2014
 - Absolute and percentage changes
 
+## 📊 Visual Insights
+
+### Screenshot: 
+![image](https://github.com/YusafM/Tableau-EMSI-Job-Change-UK-Data-Visualisation/blob/main/Screenshot%202025-06-02%20145315.png)
